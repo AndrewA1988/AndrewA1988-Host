@@ -1,0 +1,45 @@
+:root.dark-mode {
+
+  /* Background color for the body in dark mode */
+
+  background-color: #222;
+
+  /* Text color for dark mode */
+
+  color: #eee;
+
+  
+
+  /* Styling for specific elements in dark mode */
+
+  a {
+
+    color: #007bff;
+
+  }
+
+  
+
+  .button {
+
+    background-color: #333;
+
+    border: 1px solid #555;
+
+  }
+
+}
+
+
+
+/* Optional: Specific styles for elements that might need adjustments in dark mode */
+
+.card {
+
+  background-color: #333;
+
+  border: 1px solid #555;
+
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+
+}
